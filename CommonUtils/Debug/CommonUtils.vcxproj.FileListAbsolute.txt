@@ -1,0 +1,3 @@
+C:\Users\zeesh\source\repos\DelToShell\Debug\CommonUtils.pdb
+C:\Users\zeesh\source\repos\DelToShell\Output\CommonUtils.pdb
+C:\Users\zeesh\source\repos\DelToShell\CommonUtils\Debug\CommonUtils.pdb
